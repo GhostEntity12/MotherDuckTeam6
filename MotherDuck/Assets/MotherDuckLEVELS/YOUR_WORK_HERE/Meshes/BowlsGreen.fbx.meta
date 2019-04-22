@@ -1,28 +1,15 @@
 fileFormatVersion: 2
-guid: b6ca171705aa6064c850b5c58e2206a6
+guid: 298a4a62d741cad44b50ae3fbaf3d88a
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: chair
-    100002: chair1
-    100004: //RootNode
-    400000: chair
-    400002: chair1
-    400004: //RootNode
+    100000: //RootNode
+    400000: //RootNode
     2100000: lambert1
-    2100002: lambert4
-    2100004: lambert5
-    2100006: lambert6
-    2300000: chair
-    2300002: chair1
-    2300004: //RootNode
-    3300000: chair
-    3300002: chair1
-    3300004: //RootNode
-    4300000: building
-    4300002: chair1
-    4300004: chair
-    4300006: floor1
+    2100002: lambert2
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: pCube8
   externalObjects: {}
   materials:
     importMaterials: 1
