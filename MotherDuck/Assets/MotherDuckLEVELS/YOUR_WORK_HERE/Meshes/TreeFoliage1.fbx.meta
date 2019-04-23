@@ -4,12 +4,22 @@ ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
+    100002: pSphere2
+    100004: treeFoliage
     400000: //RootNode
+    400002: pSphere2
+    400004: treeFoliage
     2100000: lambert2
     2100002: lambert4
+    2100004: lambert1
     2300000: //RootNode
+    2300002: pSphere2
+    2300004: treeFoliage
     3300000: //RootNode
+    3300002: pSphere2
+    3300004: treeFoliage
     4300000: treeFoliage
+    4300002: pSphere2
   externalObjects: {}
   materials:
     importMaterials: 1
