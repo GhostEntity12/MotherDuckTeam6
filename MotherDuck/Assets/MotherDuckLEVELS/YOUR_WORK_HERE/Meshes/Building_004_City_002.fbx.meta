@@ -7,9 +7,12 @@ ModelImporter:
     400000: //RootNode
     2100000: lambert3
     2100002: lambert2
+    2100004: unityexport4_lambert4
+    2100006: unityexport4_lambert5
     2300000: //RootNode
     3300000: //RootNode
     4300000: pCube33
+    4300002: Building_004_City_002
   externalObjects: {}
   materials:
     importMaterials: 1
