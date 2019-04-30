@@ -8,11 +8,13 @@ ModelImporter:
     100004: MainFloor
     100006: TennisCourt
     100008: floorCollision
+    100010: FloorCollison
     400000: //RootNode
     400002: BowlsGreen
     400004: MainFloor
     400006: TennisCourt
     400008: floorCollision
+    400010: FloorCollison
     2100000: lambert1
     2100002: lambert3
     2100004: lambert2
@@ -23,16 +25,19 @@ ModelImporter:
     2100014: pasted__lambert4
     2100016: pasted__lambert3
     2100018: pasted__lambert12
+    2100020: lambert8
     2300000: //RootNode
     2300002: BowlsGreen
     2300004: MainFloor
     2300006: TennisCourt
     2300008: floorCollision
+    2300010: FloorCollison
     3300000: //RootNode
     3300002: BowlsGreen
     3300004: MainFloor
     3300006: TennisCourt
     3300008: floorCollision
+    3300010: FloorCollison
     4300000: pPlane2
     4300002: floor
     4300004: floor1
@@ -40,6 +45,7 @@ ModelImporter:
     4300008: BowlsGreen
     4300010: TennisCourt
     4300012: floorCollision
+    4300014: FloorCollison
   externalObjects: {}
   materials:
     importMaterials: 1
